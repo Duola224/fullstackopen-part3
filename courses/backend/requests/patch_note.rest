@@ -1,0 +1,5 @@
+PATCH http://localhost:3001/api/notes/1 HTTP/1.1w
+Content-Type: application/json
+{
+    "important": false
+}
